@@ -12,7 +12,7 @@ html {
 
 body {
     width: 100vw;
-    height: 90rem;
+    height: 100vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
