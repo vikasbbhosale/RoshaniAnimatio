@@ -23,13 +23,13 @@ body {
 .vikas{
    display: flex; 
    justify-content: space-between;
-   gap : 350px;
+   gap : 300px;
 }
 @media (max-width: 768px) {
     .vikas{
         display: flex;
         flex-direction: column;
-        gap : 150px;
+        gap : 110px;
 
     }
 }
