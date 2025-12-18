@@ -17,7 +17,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    gap: 60px;
+    gap: 70px;
 }
 
 .vikas{
@@ -29,7 +29,7 @@ body {
     .vikas{
         display: flex;
         flex-direction: column;
-        gap : 120px;
+        gap : 130px;
 
     }
 }
