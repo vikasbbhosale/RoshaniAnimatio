@@ -12,7 +12,7 @@ html {
 
 body {
     width: 100vw;
-    height: 95vh;
+    height: 100vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -50,8 +50,8 @@ body {
     margin: 0px auto;
     margin-top: 15%;
     /* margin-left: 42%; */
-    width: 200px;
-    height: 200px;
+    width: 150px;
+    height: 150px;
     transform: rotateX(-30deg) rotateY(-80deg);
     transform-style: preserve-3d;
     animation: rotate 15s infinite;
